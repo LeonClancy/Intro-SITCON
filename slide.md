@@ -9,23 +9,8 @@ output: index.html
 </h1>
 <br />
 
-## SITCON 共同發起人
-## Denny Huang
-
---
-
-### Who am I ?
-
-<br />
-<h2 style="font-size: 60px">
-  <b>Denny Huang</b>
-</h2>
-
-* SITCON 2013, 2014 總召
-
-* Rayark Inc.
-
-* <a href="https://denny.one/" target="_blank">About me</a>
+## SITCON 
+## Leon
 
 --
 
